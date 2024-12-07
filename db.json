@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "username": "tom",
+      "email": "tigin@gmail.com",
+      "age": "15",
+      "status": "inactive",
+      "id": "2"
+    },
+    {
+      "id": "1",
+      "username": "jerry",
+      "email": "vcinema@m",
+      "age": "15",
+      "status": "active"
+    }
+  ]
+}
